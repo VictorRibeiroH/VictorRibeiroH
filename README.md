@@ -1,7 +1,7 @@
 ## Oiii eu sou o Victor Ribeiro, desenvolvedor JR front-end!
 
 - 🔭 Trabalho com front-end
-- 🌱 Estudando Typescript 
+
 
 <div align="center">
   <a href="https://github.com/VictorRibeiroH">
