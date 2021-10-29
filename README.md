@@ -1,4 +1,4 @@
-## Oiii eu sou o Victor Ribeiro, desenvolvedor JR front-end!
+## Olá! eu sou o Victor Ribeiro, desenvolvedor JR front-end!
 
 - 🔭 Trabalho com front-end
 
