@@ -1,4 +1,4 @@
-## Olá! eu sou o Victor Ribeiro, desenvolvedor FullStack JR!
+## Olá! eu sou o Victor Ribeiro, desenvolvedor Frontend JR!
 
 - 🔭 Trabalho com front-end
 
