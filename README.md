@@ -1,6 +1,4 @@
-## Olá! eu sou o Victor Ribeiro, desenvolvedor Frontend JR!
-
-- 🔭 Trabalho com front-end
+## Olá! eu sou o Victor Ribeiro, desenvolvedor Frontend!
 
 
 <div align="center">
