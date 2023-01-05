@@ -1,4 +1,4 @@
-## Olá! eu sou o Victor Ribeiro, desenvolvedor Frontend!
+## Olá! eu sou o Victor Ribeiro, desenvolvedor Full Stack!
 
 
 
